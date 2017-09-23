@@ -1,0 +1,3 @@
+[submodule "melta_common"]
+	path = melta_common
+	url = https://github.com/meltadb/melta_common_rb.git
